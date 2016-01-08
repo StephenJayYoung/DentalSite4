@@ -502,43 +502,74 @@
 
 						<div class="oc-item">
 							<div class="iportfolio">
+							<!-- For the image -->
 								<div class="portfolio-image">
-									<a href="ajax/lightbox-gallery/project4.html">
 										<img src="images/Services/svc_cosmetic.jpg" alt="Cosmetic Dentistry">
-									</a>
+									<!-- For the center icon with link -->
 									<div class="portfolio-overlay ">
-										<a href="images/Services/svc_cosmetic.jpg" class=" cbp-singlePageInline" class="center-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
-										<!-- <a href="portfolio-single.php" class="right-icon"><i class="icon-line-ellipsis"></i></a> -->
+										<a data-toggle="modal" data-target="#cosmeticDentistry" class="center-icon"><i class="icon-line-plus"></i></a>
 									</div>
 								</div>
+								<!-- for the portfolio description -->
 								<div class="portfolio-desc">
-									<h3><a href="ajax/lightbox-gallery/project4.html">Cosmetic Dentistry</a></h3>
+									<h3>Cosmetic Dentistry</h3>
 								</div>
 							</div>
+
+							<!-- Modal -->
+								<div class="modal fade" id="cosmeticDentistry" tabindex="-1" role="dialog"  aria-hidden="true">
+									<div class="modal-dialog">
+										<div class="modal-body">
+											<div class="modal-content">
+												<div class="modal-header">
+													<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+													<h4 class="modal-title">Cosmetic Dentistry</h4>
+												</div>
+												<div class="modal-body">
+													<img src="images/img/svc_zoom.jpg" alt="ZOOM!® Smile-Whitening"><br />
+													<p>Many everyday things like coffee, tea and wine can significantly dull teeth. Zoom! Whitening enables us to significantly brighten your smile in just one visit.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
 						</div>
 
 						<!-- Add this modal into services -->
-												<!-- Modal -->
-						<div class="modal fade" id="cosmetic" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-							<div class="modal-dialog">
-								<div class="modal-body">
-									<div class="modal-content">
-										<div class="modal-header">
-											<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-											<h4 class="modal-title" id="myModalLabel">Cosmetic Dentistry</h4>
-										</div>
 
+
+
+
+							<!-- Porcelain Crowns & Bridges -->
+							<article class="portfolio-item">
+								<div class="portfolio-image" data-animate="bounceIn">
+									<a data-toggle="modal" data-target="#crowns-modal" href="#">
+										<img src="images/img/svc_crownsbridges.jpg" alt="Porcelain Crowns & Bridges">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a data-toggle="modal" data-target="#trudenta-modal" href="#">Porcelain Crowns &amp; Bridges</a></h3>
+								</div>
+
+								<!-- PORECLAIN CROWNS MODAL CONTENT -->
+								<div class="modal fade" id="crowns-modal" tabindex="-1" role="dialog" aria-hidden="true">
+									<div class="modal-dialog">
 										<div class="modal-body">
-											Add some stuff in here re cosmetic dentistry
-										</div>
-										</div>
-										<div class="modal-footer">
-											<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-<!-- 											<button type="button" class="btn btn-primary">Save changes</button> -->
+											<div class="modal-content">
+												<div class="modal-header">
+													<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+													<h4 class="modal-title">Porcelain Crowns &amp; Bridges</h4>
+												</div>
+												<div class="modal-body">
+													<img src="images/img/svc_crownsbridges.jpg" alt="Porcelain Crowns &amp; Bridges"><br />
+													<p>Protect and keep badly decayed or fractured teeth while maintaining a beautiful smile. Made to perfectly match the shape and shade of your other teeth, they’re durable, strong, and undetectable.</p>
+												</div>
+											</div>
 										</div>
 									</div>
 								</div>
-							</div>
+							</article>
 							<!-- End modal for services -->
 
 
