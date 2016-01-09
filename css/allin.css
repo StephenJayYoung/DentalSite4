@@ -498,6 +498,24 @@ section#members {
   color: #ffffff;
 }
 
+.pricing-box.pricing-extended .pricing-desc {
+    padding: 30px;
+}
+
+.pricing-box.pricing-extended .pricing-features ul {
+    padding: 15px 0 0 0;
+    line-height: 2.5;
+    /* font-size: 1px !important; */
+}
+
+.pricing-box.pricing-extended .pricing-features li {
+    font-size: 17.2px;
+}
+
+.button.button-large {
+    font-size: 13px;
+}
+
 #membershipText{
 	color: #fff !important;
 }
