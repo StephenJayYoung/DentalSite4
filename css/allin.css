@@ -684,6 +684,11 @@ section#location {
 	padding-bottom: 0px !important;
 }
 
+#bottomLogo {
+	width: 450px !important; 
+	height: auto !important;
+}
+
 
 #contact-form-overlay-mobile{
 	background-color: #FFF;
