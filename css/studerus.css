@@ -344,9 +344,9 @@ section#specials {
 .specialsSubtext{
 	font-size: 20px !important;
 }
-.pricing-title {
-    background-color: #BDD537;
-}
+/*.pricing-title {
+    background-color: #7E8F7C;
+}*/
 
 /*#specialsHeader {
 	font-weight: 1100px !important;
@@ -364,8 +364,16 @@ section#specials {
 	padding-top: 25px;
 }
 
+#new-childrens-cleaning-exam .pricing-title {
+	background-color: #5b6b59 !important;
+}
+
+#new-patient-dental-exam .pricing-title {
+	background-color: #7E8F7C !important;
+}
+
 #professional-smile-whitening .pricing-title {
-	background-color: #BDD537 !important;
+	background-color: #D95325 !important;
 }
 
 
