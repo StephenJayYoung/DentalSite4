@@ -111,6 +111,22 @@ body{
 
 /** ACTIONS OVERRIDES */
 
+.newPatientHotline{
+	font-size: 22px !important;
+}
+
+.promo > span, .promo > .container > span {
+    display: block;
+    color: #444;
+    font-weight: 300;
+    font-size: 21px;
+    margin-top: 3px;
+}
+
+.promo-full {
+  padding: 15px !important; 
+}
+
 
 #calls-to-action .heading-block > span:not(.before-heading) {
 	font-size: 2.5em !important;
@@ -499,7 +515,7 @@ section#members {
 }
 
 .pricing-box.pricing-extended .pricing-desc {
-    padding: 30px;
+    padding: 25px;
 }
 
 .pricing-box.pricing-extended .pricing-features ul {
