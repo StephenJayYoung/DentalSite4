@@ -12,7 +12,7 @@ h2{
   font-family: 'Rufina', serif !important;
 	/* font-weight: bold; */
 	font-weight: 900 !important;
-	color: #40666d !important;
+	color: #7E8F7C !important;
 }
 
 /** MENU OVERRIDES */
@@ -76,8 +76,8 @@ h2{
 
 
 body{
-	color: #77787b !important;
-	background-color: #ffffff;
+	color: #333 !important;
+	background-color: #FFF !important;
 }
 
 
@@ -308,7 +308,7 @@ body{
 
 /** TEAM OVERRIDES */
 section#team {
-	background-color: #F0F0F0 !important;
+	background-color: #FDF3E7 !important;
 	margin-top: 0;
 	padding-top: 60px;
 	padding-bottom: 30px;
@@ -476,7 +476,7 @@ section#reviews {
 	padding-top: 60px;
 	margin-bottom: 0;
 	padding-bottom: 30px;
-	background-color: #F0F0F0 !important;
+	background-color: #FDF3E7 !important;
 }
 
 #reviewsText{
@@ -610,7 +610,7 @@ section#services {
 	padding-top: 60px;
 	margin-bottom: 0;
 	padding-bottom: 30px;
-	background-color: #FFF !important;
+	background-color: #FDF3E7 !important;
 }
 
 @media (max-width: 480px) {
@@ -716,6 +716,7 @@ section#location {
 	padding-bottom: 30px;
 	border-top: 1px solid #e8e8e8;
 	padding-bottom: 0px !important;
+	background-color: #FFF !important;
 }
 
 #bottomLogo {
@@ -865,12 +866,12 @@ address {
 /*FOOTER OVERRIDES*/
 
 footer {
-	background-color: #6A787C !important;
+	background-color: #333 !important;
 }
 
 .tSteeleText{
 	font-size: 15px !important;
-	color: #77787b !important;
+	color: #ffffff !important;
 }
 
 .social-icon i {
