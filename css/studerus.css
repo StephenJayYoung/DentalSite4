@@ -61,7 +61,7 @@ h2{
 }
 
 #primary-menu > ul > li.current a {
-    color: #000000 !important;
+    color: #ffffff !important;
     text-decoration: none !important;
 }
 
@@ -518,8 +518,8 @@ section#members {
 	margin-bottom: 0;
 	padding-bottom: 30px;
 	border-bottom: 1px solid #e8e8e8;
-	background-color: #4D787C !important;
-  color: #ffffff;
+	background-color: #7E8F7C !important;
+  color: #fff;
 }
 
 .pricing-box.pricing-extended .pricing-desc {
