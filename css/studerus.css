@@ -522,6 +522,10 @@ section#members {
   color: #fff;
 }
 
+/*#members-button{
+	background-color: #3B3738 !important;
+}*/
+
 .pricing-box.pricing-extended .pricing-desc {
     padding: 25px;
 }
@@ -603,13 +607,21 @@ section#members {
 }
 
 #members a.button {
-	border-bottom: #1ABC9C !important;
-	background-color: #1ABC9C !important;
+	border-bottom: #3B3738 !important;
+	background-color: #3B3738 !important;
+	color: #ffffff !important;
+}
+
+#members a.button hover{
+	border-bottom: black !important;
+	background-color: black !important;
 	color: #ffffff !important;
 }
 
 .button.button-3d:not(.button-white):not(.button-dark):not(.button-border):not(.button-black):not(.button-red):not(.button-teal):not(.button-yellow):not(.button-green):not(.button-brown):not(.button-aqua):not(.button-purple):not(.button-leaf):not(.button-pink):not(.button-blue):not(.button-dirtygreen):not(.button-amber):not(.button-lime):hover {
-	background-color: #bdd537 !important;;
+	background-color: #ffffff !important;
+	color: #000000 !important;
+	border: 2px solid #000000;
 }
 
 /** SERVICES OVERRIDES */
@@ -930,9 +942,12 @@ table {
 	/*CUSTOM BUTTON COLOR*/
 
 	.button{
-		background-color: #BDD537 !important;
+		background-color: #3B3738 !important;
 	}
 
+	.button hover{
+		background-color: #ffffff !important;
+	}
 
 #gotoTop:hover {
     background-color: #BDD537 !important;
