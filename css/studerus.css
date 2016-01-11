@@ -730,7 +730,6 @@ section#services {
 
 @media (max-width: 480px) {
 
-
 .close {
     font-size: 90px;
     line-height: .2;
@@ -840,6 +839,22 @@ section#location {
 	height: auto !important;
 }
 
+@media (max-width: 780px){
+	#bottomLogo {
+	width: 350px !important; 
+	height: auto !important;
+}
+
+}
+
+@media (max-width: 480px){
+	#bottomLogo {
+	width: 250px !important; 
+	height: auto !important;
+}
+
+}
+
 
 #contact-form-overlay-mobile{
 	background-color: #FFF;
@@ -887,10 +902,10 @@ label.error { display: none !important; }
 
 
 
-
+/*
 #bottomLogo{
 	margin-bottom: 0px !important;
-}
+}*/
 
 hoursText{
 	margin-bottom: 0px !important;
