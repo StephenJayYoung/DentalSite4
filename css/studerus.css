@@ -839,6 +839,10 @@ section#location {
 	height: auto !important;
 }
 
+.contactText {
+	font-size: 29px !important;
+}
+
 @media (max-width: 780px){
 	#bottomLogo {
 	width: 350px !important; 
