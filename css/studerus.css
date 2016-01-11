@@ -904,6 +904,10 @@ label.error { display: none !important; }
 	font-size: 20px !important;
 }
 
+.locationText a{
+	color: #000000 !important;
+}
+
 
 
 /*
