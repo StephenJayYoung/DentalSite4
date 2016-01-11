@@ -328,6 +328,11 @@ section#team {
 	background-color: #ffffff;
 }
 
+.owl-theme .owl-controls .owl-nav [class*=owl-]:hover{
+background-color: black !important;
+}
+
+
 .group-carousel-caption {
 	text-align: center;
 	margin: 0;
@@ -969,5 +974,5 @@ table {
 	}
 
 #gotoTop:hover {
-    background-color: #BDD537 !important;
+    background-color: #000000 !important;
 }
