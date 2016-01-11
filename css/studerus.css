@@ -111,23 +111,37 @@ body{
 
 /** ACTIONS OVERRIDES */
 
-.newPatientHotline{
-	font-size: 22px !important;
+.ctaBox{
+	line-height: 10px;
+}
+
+.newPatientHotline span{
+	font-size: 26px !important;
 	color: #000000 !important;
 }
 
-.newPatientHotline > span a {
-	font-size: 22px !important;
+.newPatientHotline {
+	font-size: 21px !important;
+	color: #000000 !important;
+}
+
+.newPatientHotline > a{
+	font-size: 20px !important;
+	color: #000000 !important;
+}
+
+.existingPatientsCall span{
+	font-size: 23px;
 	color: #000000 !important;
 }
 
 .existingPatientsCall{
-	font-size: 20px;
+	font-size: 19px;
 	color: #000000 !important;
 }
 
-.existingPatientsCall > span a{
-	font-size: 20px;
+.existingPatientsCall > a{
+	font-size: 19px;
 	color: #000000 !important;
 }
 
@@ -690,7 +704,7 @@ section#services {
     padding-bottom: 15px !important;
     margin-bottom: 10px;
     border-width: 1.3px !important;
-    background-color: #1ABC9C !important;
+    background-color: #000000 !important;
     opacity: .99 !important;
 	}
 
