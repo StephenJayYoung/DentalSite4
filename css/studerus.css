@@ -712,28 +712,24 @@ section#services {
 
 @media (min-width: 1201px){
 	.portfolio-desc h3 a {
-    font-size: 16px !important;
+    font-size: 16px !important
 	}
 }
 
 @media (min-width: 900px) ( max-width: 1200px){
 	.portfolio-desc h3 a {
-    font-size: 18px !important;
+    font-size: 18px !important
 	}
 }
 
-@media (min-width: 780px) ( max-width: 899px){
+@media (min-width: 780px) ( max-width: 900px){
 	.portfolio-desc h3 a {
-    font-size: 16px !important;
+    font-size: 16px !important
 	}
 }
 
-@media (min-width: 480px) (max-width: 779px) {
-	.portfolio-desc h3 a {
-    font-size: 14px !important;
-	}
+@media (max-width: 480px) {
 
-}
 
 .close {
     font-size: 90px;
@@ -749,7 +745,7 @@ section#services {
     background-color: #000000 !important;
     opacity: .99 !important;
 	}
-
+}
 	.modal-header {
   border-bottom: none !important; 
 }
