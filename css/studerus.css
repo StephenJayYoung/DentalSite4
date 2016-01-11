@@ -136,6 +136,13 @@ body{
 	font-family: 'Sintony', sans-serif !important;
 }
 
+.button:hover {
+    background-color: #ffffff !important;
+    border: 2px solid #000000 !important;
+    color: #000000 !important;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+}
+
 #calls-to-action .heading-block h2 a {
 	color: #000000 !important;
 }
@@ -489,6 +496,18 @@ section#reviews {
 
 #reviewsText{
 	color: red;
+}
+
+.btn-primary {
+    color: #ffffff;
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.btn-primary:hover{
+    color: #000000;
+    background-color: #ffffff !important;
+    border-color: #000000 !important;
 }
 
 
