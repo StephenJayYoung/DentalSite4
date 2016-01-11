@@ -841,6 +841,7 @@ section#location {
 
 .contactText {
 	font-size: 29px !important;
+	color: #000000;
 }
 
 @media (max-width: 780px){
@@ -902,6 +903,7 @@ label.error { display: none !important; }
 
 .locationText{
 	font-size: 20px !important;
+	color: #000000 !important;
 }
 
 .locationText a{
