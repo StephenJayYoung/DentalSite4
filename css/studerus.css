@@ -51,7 +51,7 @@ h2{
 }
 
 #primary-menu > ul > li a:hover {
-	color: #BDD537 !important;
+	color: #7E8F7C !important;
 }
 
 #header.full-header #primary-menu > ul {
@@ -66,11 +66,11 @@ h2{
 }
 
 #primary-menu > ul > li.current a:hover{
-    color: #BDD537 !important;
+    color: #7E8F7C !important;
 }
 
 #primary-menu > ul > li a:hover{
-    color: #BDD537 !important;
+    color: #7E8F7C !important;
 }
 
 
@@ -86,11 +86,11 @@ body{
 }
 
 #primary-menu > ul > li.current a {
-	color: #A5CB4E;
+	color: #7E8F7C;
 }
 
 #primary-menu > ul > li a:hover {
-	color: #BDD537 !important;
+	color: #7E8F7C !important;
 }
 
 #header.full-header #primary-menu > ul {
@@ -113,14 +113,34 @@ body{
 
 .newPatientHotline{
 	font-size: 22px !important;
+	color: #000000 !important;
+}
+
+.newPatientHotline > span a {
+	font-size: 22px !important;
+	color: #000000 !important;
+}
+
+.existingPatientsCall{
+	font-size: 20px;
+	color: #000000 !important;
+}
+
+.existingPatientsCall > span a{
+	font-size: 20px;
+	color: #000000 !important;
 }
 
 .promo > span, .promo > .container > span {
     display: block;
-    color: #444;
+    color: #000000 !important;
     font-weight: 300;
     font-size: 21px;
     margin-top: 3px;
+}
+
+h1 > span:not(.nocolor), h2 > span:not(.nocolor), h3 > span:not(.nocolor), h4 > span:not(.nocolor), h5 > span:not(.nocolor), h6 > span:not(.nocolor) {
+    color: #000000 !important;
 }
 
 .promo-full {
@@ -812,6 +832,8 @@ label.error { display: none !important; }
 .locationText{
 	font-size: 20px !important;
 }
+
+
 
 
 #bottomLogo{
