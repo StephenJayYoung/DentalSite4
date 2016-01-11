@@ -710,7 +710,30 @@ section#services {
 	background-color: #FDF3E7 !important;
 }
 
-@media (max-width: 480px) {
+@media (min-width: 1201px){
+	.portfolio-desc h3 a {
+    font-size: 16px !important;
+	}
+}
+
+@media (min-width: 900px) ( max-width: 1200px){
+	.portfolio-desc h3 a {
+    font-size: 18px !important;
+	}
+}
+
+@media (min-width: 780px) ( max-width: 899px){
+	.portfolio-desc h3 a {
+    font-size: 16px !important;
+	}
+}
+
+@media (min-width: 480px) (max-width: 779px) {
+	.portfolio-desc h3 a {
+    font-size: 14px !important;
+	}
+
+}
 
 .close {
     font-size: 90px;
