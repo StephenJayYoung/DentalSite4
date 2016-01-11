@@ -35,7 +35,7 @@ h2{
 #primary-menu ul li a {
 	padding: 0 5px;
 	font-family: 'Rufina', serif !important;
-	font-size: 14.3px !important;
+	font-size: 13.5px !important;
 }
 
 #primary-menu > ul > li.current a {
@@ -111,9 +111,6 @@ body{
 
 /** ACTIONS OVERRIDES */
 
-.ctaBox{
-	line-height: 10px;
-}
 
 .newPatientHotline span{
 	font-size: 26px !important;
@@ -792,7 +789,7 @@ section#location {
 	margin-top: 70px;
 	margin-bottom: 0;
 	padding-bottom: 30px;
-	border-top: 1px solid #e8e8e8;
+/*	border-top: 1px solid #e8e8e8;*/
 	padding-bottom: 0px !important;
 	background-color: #FFF !important;
 }
