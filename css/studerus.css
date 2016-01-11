@@ -606,6 +606,8 @@ section#members {
 .dark .pricing-box.pricing-extended .pricing-action-area {
     border-left-color: rgba(255,255,255,0.15);
     background-color: white;
+    padding-right: 10px !important;
+    padding-left: 10px !important;
 }
 
 .pricing-box {
@@ -677,6 +679,26 @@ section#members {
 	background-color: #ffffff !important;
 	color: #000000 !important;
 	border: 2px solid #000000;
+}
+
+@media (max-width: 1199px) and (min-width: 780px) {
+
+	.button.button-large {
+    font-size: 12px;
+  }
+
+  .pricing-box.pricing-extended .pricing-features li {
+    font-size: 14.4px;
+	}
+
+}
+
+@media (max-width: 480px) {
+
+  .pricing-box.pricing-extended .pricing-features li {
+    font-size: 13.5px;
+	}
+
 }
 
 /** SERVICES OVERRIDES */
