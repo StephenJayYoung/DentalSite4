@@ -151,6 +151,62 @@ body{
 	color: #000000 !important;
 }
 
+
+@media (min-width: 1200px){
+
+}
+
+@media (min-width: 900px) and (max-width: 1200px){
+
+.newPatientHotline span{
+	font-size: 24px !important;
+	color: #000000 !important;
+}
+
+.newPatientHotline {
+	font-size: 19px !important;
+	color: #000000 !important;
+}
+
+.newPatientHotline > a{
+	font-size: 18px !important;
+	color: #000000 !important;
+}
+
+.existingPatientsCall span{
+	font-size: 21px;
+	color: #000000 !important;
+}
+
+.existingPatientsCall{
+	font-size: 17px;
+	color: #000000 !important;
+}
+
+.existingPatientsCall > a{
+	font-size: 17px;
+	color: #000000 !important;
+}
+
+
+}
+
+@media (min-width: 780px) and (max-width: 900px){
+
+}
+
+@media (min-width: 480px) and (max-width: 780px) {
+
+}
+
+@media (max-width: 480px) {
+
+}
+
+
+
+
+
 .promo > span, .promo > .container > span {
     display: block;
     color: #000000 !important;
