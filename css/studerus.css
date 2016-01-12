@@ -126,12 +126,12 @@ body{
 	color: #000000 !important;
 }
 
-.newPatientHotline {
+.newPatientHotline #nphResponsive{
 	font-size: 21px !important;
 	color: #000000 !important;
 }
 
-.newPatientHotline > a{
+.newPatientHotline #nphResponsive a{
 	font-size: 20px !important;
 	color: #000000 !important;
 }
@@ -141,12 +141,12 @@ body{
 	color: #000000 !important;
 }
 
-.existingPatientsCall{
+.existingPatientsCall #epcResppnsive{
 	font-size: 19px;
 	color: #000000 !important;
 }
 
-.existingPatientsCall > a{
+.existingPatientsCall #epcResppnsive a{
 	font-size: 19px;
 	color: #000000 !important;
 }
@@ -719,7 +719,7 @@ section#members {
 }
 
 .pricing-box.pricing-extended .pricing-features li {
-    font-size: 17.2px;
+    font-size: 16.2px;
 }
 
 .button.button-large {
@@ -819,7 +819,7 @@ section#members {
 @media (max-width: 1199px) and (min-width: 780px) {
 
 	.button.button-large {
-    font-size: 12px;
+    font-size: 11px;
   }
 
   .pricing-box.pricing-extended .pricing-features li {
