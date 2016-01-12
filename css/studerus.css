@@ -111,6 +111,15 @@ body{
 
 /** ACTIONS OVERRIDES */
 
+/*.promo a.button {
+    position: absolute;
+    top: 50%;
+    margin: 0;
+    margin-top: -18px;
+    left: auto;
+    right: 0;
+}*/
+
 
 .newPatientHotline span{
 	font-size: 26px !important;
@@ -736,9 +745,9 @@ section#services {
     color: #ffffff !important;
     border-style: solid !important;
     border-color: #000000 !important;
-   /* margin: 5px !important;*/
+    margin: 5px !important;
     padding-top: 10px !important;
-    padding-bottom: 15px !important;
+    padding-bottom: 20px !important;
     margin-bottom: 10px;
     border-width: 1.3px !important;
     background-color: #000000 !important;
