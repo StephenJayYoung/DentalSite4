@@ -278,7 +278,7 @@ body{
 }
 
 .existingPatientsCall span{
-	font-size: 26px;
+	font-size: 24px;
 	color: #000000 !important;
 }
 
@@ -288,7 +288,7 @@ body{
 }
 
 .existingPatientsCall #epcResponsive a{
-	font-size: 15px;
+	font-size: 17px;
 	color: #000000 !important;
 }
 
@@ -727,7 +727,7 @@ section#reviews {
 /** MEMBERS OVERRIDES */
 section#members {
 /*	margin-top: 80px;*/
-	padding-top: 60px;
+	padding-top: 80px;
 	margin-bottom: 0;
 	padding-bottom: 30px;
 	border-bottom: 1px solid #e8e8e8;
