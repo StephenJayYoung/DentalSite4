@@ -841,8 +841,14 @@ section#members {
 
 @media (max-width: 480px) {
 	.button {
-    font-size: 11px;
+    font-size: 10.6px;
 }
+
+	#modalButton span{
+		display: none !important;
+	}
+
+
 
 }
 
