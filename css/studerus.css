@@ -12,7 +12,7 @@ h2{
   font-family: 'Oswald', serif !important;
 	/* font-weight: bold; */
 	font-weight: 900 !important;
-	color: #7E8F7C !important;
+	color: #000 !important;
 }
 
 /** MENU OVERRIDES */
@@ -500,7 +500,7 @@ h1 > span:not(.nocolor), h2 > span:not(.nocolor), h3 > span:not(.nocolor), h4 > 
 
 /** TEAM OVERRIDES */
 section#team {
-	background-color: #FDF3E7 !important;
+	background-color: #e7e6e1 !important;
 	margin-top: 0;
 	padding-top: 60px;
 	padding-bottom: 30px;
@@ -562,15 +562,15 @@ section#specials {
 }
 
 #new-childrens-cleaning-exam .pricing-title {
-	background-color: #5b6b59 !important;
+	background-color: #05b0c2 !important;
 }
 
 #new-patient-dental-exam .pricing-title {
-	background-color: #7E8F7C !important;
+	background-color: #abdce1 !important;
 }
 
 #professional-smile-whitening .pricing-title {
-	background-color: #D95325 !important;
+	background-color: #deb6b6 !important;
 }
 
 
@@ -681,7 +681,7 @@ section#reviews {
 	padding-top: 60px;
 	margin-bottom: 0;
 	padding-bottom: 30px;
-	background-color: #FDF3E7 !important;
+	background-color: #e7e6e1 !important;
 }
 
 #reviewsText{
@@ -875,7 +875,7 @@ section#services {
 	padding-top: 60px;
 	margin-bottom: 0;
 	padding-bottom: 30px;
-	background-color: #FDF3E7 !important;
+	background-color: #e7e6e1 !important;
 }
 
 @media (min-width: 1201px){
@@ -1199,7 +1199,7 @@ address {
 /*FOOTER OVERRIDES*/
 
 footer {
-	background-color: #333 !important;
+	background-color: #222 !important;
 }
 
 .tSteeleText{
