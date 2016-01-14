@@ -726,9 +726,9 @@ section#members {
 	padding-top: 80px;
 	margin-bottom: 0;
 	padding-bottom: 30px;
-	border-bottom: 1px solid #e8e8e8;
-	background-color: #7E8F7C !important;
-  color: #fff;
+/*	border-bottom: 1px solid #000 !important;*/
+	background-color: #d9d8c1 !important;
+  color: #444;
 }
 
 /*#members-button{
@@ -824,14 +824,14 @@ section#members {
 }
 
 #members a.button hover{
-	border-bottom: black !important;
-	background-color: black !important;
+	border-bottom: #bcf57f !important;
+	background-color: #bcf57f !important;
 	color: #ffffff !important;
 }
 
 .button.button-3d:not(.button-white):not(.button-dark):not(.button-border):not(.button-black):not(.button-red):not(.button-teal):not(.button-yellow):not(.button-green):not(.button-brown):not(.button-aqua):not(.button-purple):not(.button-leaf):not(.button-pink):not(.button-blue):not(.button-dirtygreen):not(.button-amber):not(.button-lime):hover {
-	background-color: #ffffff !important;
-	color: #000000 !important;
+	background-color: #095f68 !important;
+	color: #FFF !important;
 	border: 2px solid #000000;
 }
 
