@@ -1139,6 +1139,7 @@
 }
 .icon-ok:before {
 	content: "\e6c8";
+	color: #84c340;
 }
 .icon-remove:before {
 	content: "\e6c9";
