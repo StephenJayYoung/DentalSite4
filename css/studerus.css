@@ -120,6 +120,9 @@ body{
     right: 0;
 }*/
 
+.button.button-xlarge {
+    font-size: 15px;
+}
 
 .promo h3 {
   font-size: 28px;
