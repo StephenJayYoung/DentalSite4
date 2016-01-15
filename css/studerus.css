@@ -131,7 +131,7 @@ body{
 .promo a.button.button-xlarge {
     margin-top: 4px;
 }
-
+/*
 .newPatientHotline span{
 	font-size: 26px !important;
 	color: #000000 !important;
@@ -161,9 +161,14 @@ body{
 	font-size: 28px;
 	color: #000000 !important;
 }
-
+*/
 
 @media (min-width: 992px) and (max-width: 1200px){
+
+.promo h3 {
+    font-size: 30px !important;
+}
+
 
 .newPatientHotline span{
 	font-size: 24px !important;
@@ -199,6 +204,11 @@ body{
 }
 
 @media (min-width: 768px) and (max-width: 991px){
+
+.promo h3 {
+    font-size: 30px !important;
+}
+
 
 .newPatientHotline span{
 	font-size: 30px !important;
