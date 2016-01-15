@@ -684,6 +684,10 @@ section#reviews {
 	background-color: #e7e6e1 !important;
 }
 
+.pricing-box.pricing-extended {
+    border-color: #000 !important;
+}
+
 #reviewsText{
 	color: red;
 }
