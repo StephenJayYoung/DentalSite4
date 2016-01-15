@@ -1011,6 +1011,10 @@ section#location {
 	height: auto !important;
 }
 
+.postcontent, .sidebar, .col_full, .col_half, .col_one_third, .col_two_third, .col_three_fourth, .col_one_fourth, .col_one_fifth, .col_two_fifth, .col_three_fifth, .col_four_fifth, .col_one_sixth, .col_five_sixth {
+     margin-bottom: 10px !important; 
+}
+
 .contactText {
 	font-size: 29px !important;
 	color: #000000;
