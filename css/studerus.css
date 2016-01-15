@@ -542,7 +542,7 @@ section#team {
 }
 
 .owl-theme .owl-controls .owl-nav [class*=owl-]:hover{
-background-color: black !important;
+background-color: #337ab7 !important;
 }
 
 
@@ -1312,5 +1312,5 @@ table {
 	}
 
 #gotoTop:hover {
-    background-color: #000000 !important;
+    background-color: #337ab7 !important;
 }
