@@ -86,11 +86,11 @@ body{
 }
 
 #primary-menu > ul > li.current a {
-	color: #7E8F7C;
+	color: #337ab7;
 }
 
 #primary-menu > ul > li a:hover {
-	color: #7E8F7C !important;
+	color: #337ab7 !important;
 }
 
 #header.full-header #primary-menu > ul {
@@ -103,7 +103,7 @@ body{
 
 @media (max-width: 991px) {
 	body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > ul > li:hover a, body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > ul > li.current a, body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > div > ul > li:hover a, body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > div > ul > li.current a {
-    color: #BDD537 !important;
+    color: #337ab7 !important;
 	}
 }	
 
