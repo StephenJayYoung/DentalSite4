@@ -121,6 +121,14 @@ body{
 }*/
 
 
+.promo h3 {
+  font-size: 28px;
+}
+
+.promo a.button.button-xlarge {
+    margin-top: 4px;
+}
+
 .newPatientHotline span{
 	font-size: 26px !important;
 	color: #000000 !important;
