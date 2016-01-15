@@ -1010,6 +1010,8 @@ section#location {
 .contactText {
 	font-size: 29px !important;
 	color: #000000;
+	font-family: 'Oswald', serif !important;
+
 }
 
 #belfair-map{
@@ -1101,6 +1103,15 @@ label.error { display: none !important; }
 	color: #000000 !important;
 }
 
+.locationTextHours{
+	font-size: 17px !important;
+	color: #000000 !important;
+  padding: 20px;
+  background-color: #FFF;
+  border: 1px solid rgba(0,0,0,.1);
+  border-radius: 5px;
+  box-shadow: 0 1px 1px rgba(0,0,0,.1);
+}
 
 
 /*
