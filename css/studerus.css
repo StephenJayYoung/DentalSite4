@@ -1013,22 +1013,22 @@ section#location {
 }
 
 #belfair-map{
-height: 450px;
+height: 240px;
 }
 
 #gigHarbor-map{
-	height: 450px;
+	height: 240px;
 }
 
 @media (max-width: 780px){
 
-#belfair-map{
-height: 250px;
+/*#belfair-map{
+height: 240px;
 }
 
 #gigHarbor-map{
 	height: 250px;
-}
+}*/
 
 }
 
@@ -1092,11 +1092,12 @@ label.error { display: none !important; }
 .sm-form-control.error { border-color: #E42C3E; }
 
 .locationText{
-	font-size: 20px !important;
+	font-size: 17px !important;
 	color: #000000 !important;
 }
 
 .locationText a{
+	font-size: 24px;
 	color: #000000 !important;
 }
 
