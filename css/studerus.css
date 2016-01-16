@@ -763,9 +763,6 @@ section#members {
   color: #444;
 }
 
-/*#members-button{
-	background-color: #3B3738 !important;
-}*/
 
 .pricing-box.pricing-extended .pricing-desc {
     padding: 25px;
@@ -850,22 +847,21 @@ section#members {
 }
 
 #members a.button {
-/*	border: #84c340 !important;*/
 	background-color:  #84c340 !important;
 	color: #444 !important;
 }
 
-#members a.button hover{
-/*	border: #bcf57f !important;*/
+#members a.button:hover{
 	background-color: #bcf57f !important;
 	color: #444 !important;
 }
 
-.button.button-3d:not(.button-white):not(.button-dark):not(.button-border):not(.button-black):not(.button-red):not(.button-teal):not(.button-yellow):not(.button-green):not(.button-brown):not(.button-aqua):not(.button-purple):not(.button-leaf):not(.button-pink):not(.button-blue):not(.button-dirtygreen):not(.button-amber):not(.button-lime):hover {
+
+
+/*.button.button-3d:not(.button-white):not(.button-dark):not(.button-border):not(.button-black):not(.button-red):not(.button-teal):not(.button-yellow):not(.button-green):not(.button-brown):not(.button-aqua):not(.button-purple):not(.button-leaf):not(.button-pink):not(.button-blue):not(.button-dirtygreen):not(.button-amber):not(.button-lime):hover {
 	background-color: #bcf57f !important;
 	color: #444 !important;
-	/*border: 2px solid #000000;*/
-}
+}*/
 
 @media (max-width: 480px) {
 	.button {
