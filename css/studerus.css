@@ -120,6 +120,15 @@ body{
     right: 0;
 }*/
 
+#cta{
+	background-color: #abdce1 !important;
+	padding-bottom: 50px;
+}
+
+/*.promo.promo-border {
+    border-top: 1px solid #E5E5E5 !important;
+}*/
+
 .button.button-xlarge {
     font-size: 15px;
 }
