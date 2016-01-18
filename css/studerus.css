@@ -397,7 +397,8 @@ section#reviews {
 
 /** MEMBERS OVERRIDES */
 section#members {
-	padding-top: 80px;
+	margin-top: 0px;
+	padding-top: 75px;
 	margin-bottom: 0;
 	padding-bottom: 30px;
 	background-color: #d9d8c1 !important;
